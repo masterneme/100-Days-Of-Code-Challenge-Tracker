@@ -7,4 +7,6 @@ Repository created to track my progress on the 100 Days of code challenge.
 [Standard Tweet](https://twitter.com/intent/tweet?text=Day%20%3A%0d%0d&hashtags=100DaysOfCode,FreeCodeCamp)
 
 &hashtags=100DaysOfCode,FreeCodeCamp
-%23%31DaysOfCode%20%23FreeCodeCamp
+%23%31%30%30DaysOfCode%20%23FreeCodeCamp%08
+
+https://www.eso.org/~ndelmott/url_encode.html
