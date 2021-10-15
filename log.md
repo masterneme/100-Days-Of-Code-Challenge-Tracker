@@ -8,14 +8,23 @@ Familiarize with GitHub.
 Tweet.
 
 ### Day 1: 13/10/2021
-23/28 Basic HTML and HTML5 Course.  
+2 pomodoros + revision.  
+23/28 Basic HTML and HTML5.  
 Create tracker on GitHub.  
 Delete modified 100 Days of Code fork.  
 Fork again and keep unmodified for reference.  
 Tweet.
 
 ### Day 2: 14/10/2021
-28/28 Basic HTML and HTML5 Course.  
+2 pomodoros + revision.  
+28/28 Basic HTML and HTML5.  
 24/44 Basic CSS.  
 Add tweet "template" to README.md.  
+Tweet.
+
+### Day 3: 15/10/2021
+2 pomodoros + revision.  
+44/44 Basic CSS.  
+13/52 Applied Vidual Design.  
+Adjust tweet "template".  
 Tweet.
