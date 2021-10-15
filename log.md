@@ -25,6 +25,6 @@ Tweet.
 ### Day 3: 15/10/2021
 2 pomodoros + revision.  
 44/44 Basic CSS.  
-13/52 Applied Vidual Design.  
+13/52 Applied Visual Design.  
 Adjust tweet "template".  
 Tweet.
