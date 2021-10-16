@@ -1,6 +1,6 @@
 # 100-Days-Of-Code-Challenge-Tracker  
 
-Repository created to track my progress on the 100 Days of code challenge going through the [FreeCodeCamp curriculum](https://www.freecodecamp.org/learn).
+Repository created to track my progress on the [100 Days of code challenge](https://www.100daysofcode.com/) going through the [FreeCodeCamp curriculum](https://www.freecodecamp.org/learn).
 
 [Log - Click to see my progress](https://github.com/masterneme/100-Days-Of-Code-Challenge-Tracker/blob/main/log.md)
 
