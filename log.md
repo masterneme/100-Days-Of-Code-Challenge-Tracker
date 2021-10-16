@@ -32,5 +32,5 @@ Tweet.
 ### Day 4: 16/10/2021
 2 pomodoros + review.  
 38/52 Applied Visual Design.  
-Adjust README.MD.  
+Adjust README.md.  
 Tweet.
