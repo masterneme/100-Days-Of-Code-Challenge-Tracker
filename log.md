@@ -34,3 +34,9 @@ Tweet.
 38/52 Applied Visual Design.  
 Adjust README.md.  
 Tweet.
+
+### Day 5: 17/10/2021
+2 pomodoros + review.  
+52/52 Applied Visual Design.  
+9/22 Applied Accessibility.  
+Tweet.
