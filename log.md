@@ -40,3 +40,11 @@ Tweet.
 52/52 Applied Visual Design.  
 9/22 Applied Accessibility.  
 Tweet.
+
+### Day 6: 18/10/2021
+3 pomodoros + review.  
+22/22 Applied Accessibility.  
+4/4 Responsive Web Design Principles.  
+17/17 CSS Flexbox.  
+2/22 CSS Grid.  
+Tweet.
