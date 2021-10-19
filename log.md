@@ -48,3 +48,9 @@ Tweet.
 17/17 CSS Flexbox.  
 2/22 CSS Grid.  
 Tweet.
+
+### Day 7: 19/10/2021
+3 pomodoros + review.  
+22/22 CSS Grid.  
+35/111 Basic JavaScript.  
+Tweet.
