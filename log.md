@@ -54,3 +54,8 @@ Tweet.
 22/22 CSS Grid.  
 35/111 Basic JavaScript.  
 Tweet.
+
+### Day 8: 20/10/2021
+3 pomodoros + review.  
+74/111 Basic JavaScript.  
+Tweet.
