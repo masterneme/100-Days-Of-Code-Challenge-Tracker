@@ -60,8 +60,12 @@ Tweet.
 74/111 Basic JavaScript.  
 Tweet.
 
-
 ### Day 9: 21/10/2021
 4 pomodoros + review.  
 93/111 Basic JavaScript.  
+Tweet.
+
+### Day 10: 22/10/2021
+3 pomodoros + review.  
+102/111 Basic JavaScript.  
 Tweet.
