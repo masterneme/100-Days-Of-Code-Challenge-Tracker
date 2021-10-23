@@ -69,3 +69,9 @@ Tweet.
 3 pomodoros + review.  
 102/111 Basic JavaScript.  
 Tweet.
+
+### Day 11: 23/10/2021
+3 pomodoros + review.  
+111/111 Basic JavaScript.  
+8/31 ES6.  
+Tweet.
