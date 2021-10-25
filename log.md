@@ -80,3 +80,9 @@ Tweet.
 3 pomodoros + review.  
 22/31 ES6.  
 Tweet.
+
+### Day 13: 25/10/2021
+2 pomodoros + review.  
+31/31 ES6.  
+14/33 Regular Expresions.  
+Tweet.
