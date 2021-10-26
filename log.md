@@ -86,3 +86,9 @@ Tweet.
 31/31 ES6.  
 14/33 Regular Expresions.  
 Tweet.
+
+### Day 14: 26/10/2021
+2 pomodoros + review.  
+33/33 Regular Expresions.  
+5/12 Debugging.  
+Tweet.
