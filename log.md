@@ -88,7 +88,7 @@ Tweet.
 Tweet.
 
 ### Day 14: 26/10/2021
-2 pomodoros + review.  
+4 pomodoros + review.  
 33/33 Regular Expresions.  
 5/12 Debugging.  
 Tweet.
