@@ -92,3 +92,9 @@ Tweet.
 33/33 Regular Expresions.  
 5/12 Debugging.  
 Tweet.
+
+### Day 15: 27/10/2021
+4 pomodoros + review.  
+12/12 Debugging.  
+18/20 Basic Data Structures.  
+Tweet.
