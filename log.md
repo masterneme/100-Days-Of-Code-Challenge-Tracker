@@ -98,3 +98,9 @@ Tweet.
 12/12 Debugging.  
 18/20 Basic Data Structures.  
 Tweet.
+
+### Day 16: 28/10/2021
+4 pomodoros + review.  
+20/20 Basic Data Structures.  
+11/16 Basic Algorithm Scripting.  
+Tweet.
