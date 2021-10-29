@@ -104,3 +104,9 @@ Tweet.
 20/20 Basic Data Structures.  
 11/16 Basic Algorithm Scripting.  
 Tweet.
+
+### Day 17: 29/10/2021
+4 pomodoros + review.  
+16/16 Basic Algorithm Scripting.  
+7/26 Object Oriented Programming.  
+Tweet.
