@@ -110,3 +110,8 @@ Tweet.
 16/16 Basic Algorithm Scripting.  
 7/26 Object Oriented Programming.  
 Tweet.
+
+### Day 18: 30/10/2021
+2 pomodoros + review.  
+23/26 Object Oriented Programming.  
+Tweet.
