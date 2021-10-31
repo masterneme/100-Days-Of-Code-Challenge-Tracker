@@ -115,3 +115,9 @@ Tweet.
 2 pomodoros + review.  
 23/26 Object Oriented Programming.  
 Tweet.
+
+### Day 19: 31/10/2021
+2 pomodoros + review.  
+26/26 Object Oriented Programming.  
+6/24 Functional Programming.  
+Tweet.
