@@ -133,3 +133,11 @@ Tweet.
 Familiarize with [Khan Academy](https://www.khanacademy.org/computing/computer-programming).  
 Update README.md.  
 Tweet.
+
+### Day 22: 3/11/2021
+2 pomodoros + review.  
+Switch to [Khan Academy](https://www.khanacademy.org/computing/computer-programming).  
+10/10 Intro to HTML.  
+5/9 Intro to CSS.  
+Update README.md.  
+Tweet.
