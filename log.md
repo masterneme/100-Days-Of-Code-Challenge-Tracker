@@ -141,3 +141,9 @@ Switch to [Khan Academy](https://www.khanacademy.org/computing/computer-programm
 5/9 Intro to CSS.  
 Update README.md.  
 Tweet.
+
+### Day 23: 4/11/2021
+2 pomodoros + review.  
+9/9 Intro to CSS.  
+7/8 More HTML tags.  
+Tweet.
