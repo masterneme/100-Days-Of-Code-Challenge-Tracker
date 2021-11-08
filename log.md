@@ -162,3 +162,10 @@ Tweet.
 4/4 Web development tools.  
 11/14 CSS layout.  
 Tweet.
+
+### Day 26: 7/11/2021
+2 pomodoros + review.  
+8/8 More HTML tags.  
+11/11 CSS text properties.  
+14/14 CSS layout.  
+Tweet.
