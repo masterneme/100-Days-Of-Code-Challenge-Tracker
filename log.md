@@ -169,3 +169,8 @@ Tweet.
 11/11 CSS text properties.  
 14/14 CSS layout.  
 Tweet.
+
+### Day 27: 8/11/2021
+2 pomodoros + review.  
+11/11 More CSS selectors.  
+Tweet.
