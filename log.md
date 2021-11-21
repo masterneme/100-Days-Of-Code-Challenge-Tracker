@@ -174,3 +174,6 @@ Tweet.
 2 pomodoros + review.  
 11/11 More CSS selectors.  
 Tweet.
+
+### Day 28 + X: FAIL
+My Internet Provider shut my connection down for a week because of some "administrative problem", making me unable to continue the challenge. I'll restart once I'm sure it won't happen again.
