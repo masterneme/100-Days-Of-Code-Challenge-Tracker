@@ -177,3 +177,8 @@ Tweet.
 
 ### Day 28 + X: FAIL
 My Internet Provider shut my connection down for a week because of some "administrative problem", making me unable to continue the challenge. I'll restart once I'm sure it won't happen again.
+
+### Extra
+2/2 Other ways to embed CSS.  
+4/4 Further learning.  
+This completes the course [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css).
